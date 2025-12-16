@@ -1,45 +1,71 @@
-# Advanced Java Projects
+# Advanced Java – JDBC | Servlet | JSP
 
-This repository contains my **Advanced Java practice programs and mini projects**.  
-It is created to strengthen my understanding of **JDBC, Servlet, JSP, and MVC architecture**.
+This repository contains **hands-on Advanced Java programs and mini projects** developed to understand backend web application development using **JDBC, Servlet, and JSP**.
 
-## 🚀 Technologies Used
-- Advanced Java
+---
+
+## 🚀 Technologies & Tools
+- Java (Core & Advanced)
 - JDBC
 - Servlet
 - JSP
-- MySQL
-- Apache Tomcat
-- HTML, CSS
-
-## 📂 Concepts Covered
-- JDBC Connectivity
-- CRUD Operations using JDBC
-- Servlet Life Cycle
-- Request & Response Handling
-- Session Management
-- JSP Directives & Implicit Objects
-- MVC Architecture
-- Login & Registration Module
-
-## 🛠 Tools & Server
-- Eclipse IDE
-- Apache Tomcat Server
 - MySQL Database
+- Apache Tomcat Server
+- HTML, CSS
+- Eclipse IDE
 
-## 🎯 Purpose
-- Hands-on practice of Advanced Java concepts
-- Understanding backend web development
-- Preparing for Java Developer interviews
+---
+
+## 📂 Modules Covered
+
+### 🔹 JDBC
+- Database Connectivity
+- CRUD Operations
+- PreparedStatement
+- ResultSet
+- Transaction Handling
+
+### 🔹 Servlet
+- Servlet Life Cycle
+- doGet() & doPost()
+- Request & Response Handling
+- Form Handling
+- Session Management
+- Login & Authentication
+
+### 🔹 JSP
+- JSP Life Cycle
+- JSP Directives
+- Implicit Objects
+- Expression Language (EL)
+- JSP + Servlet Integration
+
+---
+
+## 🏗 Architecture Used
+- MVC Architecture (Model – View – Controller)
+- DAO Pattern
+
+---
 
 ## ▶ How to Run the Project
-1. Import the project into Eclipse
-2. Configure Apache Tomcat Server
-3. Setup MySQL database
-4. Update database credentials in code
-5. Run the project on server
+1. Import project into **Eclipse**
+2. Configure **Apache Tomcat**
+3. Create database in **MySQL**
+4. Update DB credentials in JDBC code
+5. Run project on server
 
-## 📌 Author
+---
+
+## 🎯 Learning Outcome
+- Strong understanding of backend development
+- Practical experience with Java web applications
+- Improved database handling skills
+- Interview-ready Advanced Java concepts
+
+---
+
+## 👨‍💻 Author
 **Shreyash Patil Gawande**  
 Java | Advanced Java | Web Development  
 
