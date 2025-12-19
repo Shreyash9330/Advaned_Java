@@ -15,7 +15,6 @@ This repository contains **hands-on Advanced Java programs and mini projects** d
 - Eclipse IDE
 
 ---
-
 ## 📂 Modules Covered
 
 ### 🔹 JDBC
